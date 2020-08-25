@@ -1,0 +1,14 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+
+# Uploads
+uploads/cv/*
+uploads/bg/*
+!uploads/ilustrativa.jpg
+!uploads/cv/transparente.jpg
+!uploads/bg/.gitkeep
